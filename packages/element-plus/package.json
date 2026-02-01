@@ -89,7 +89,7 @@
     "@vueuse/core": "^9.1.0",
     "async-validator": "^4.2.5",
     "dayjs": "^1.11.19",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "lodash-es": "^4.17.21",
     "lodash-unified": "^1.0.3",
     "memoize-one": "^6.0.0",
