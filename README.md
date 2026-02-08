@@ -55,6 +55,7 @@ You can also try out Element Plus with its built-in component playground.
 #### Try it with CodeSandbox
 
 [![Edit element-plus](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/p/github/element-plus/element-plus-demo/main)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falialobidm%2Felement-plus.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Falialobidm%2Felement-plus?ref=badge_shield)
 
 <p align="center">
   <b>Special thanks to our generous sponsors:</b>
@@ -151,3 +152,6 @@ And thank you to all our backers! 🙏
 
 Element Plus is open source software licensed as
 [MIT](https://github.com/element-plus/element-plus/blob/master/LICENSE).
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falialobidm%2Felement-plus.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Falialobidm%2Felement-plus?ref=badge_large)
